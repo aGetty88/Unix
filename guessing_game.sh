@@ -1,6 +1,5 @@
 #!/bin/bash
 # guessing_game.sh
-# Alan Getty
 # 4/19/21
 # CIS-170
 
